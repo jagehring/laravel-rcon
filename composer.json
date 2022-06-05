@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "^8.0"
+        "illuminate/support": "^8.1"
     },
     "autoload": {
         "psr-4": {
@@ -25,6 +25,6 @@
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": "^8.1"
     }
 }
