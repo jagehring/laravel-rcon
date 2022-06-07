@@ -5,7 +5,7 @@ You can read more protocol specification on this page: https://developer.valveso
 ## Installation
 1. Install composer package using command:
 ```
-composer require lukasz-adamski/laravel-rcon
+composer require jagehring/laravel-rcon
 ```
 
 2. Add Service Provider in `config/app.php`:
